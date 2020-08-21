@@ -1,2 +1,2 @@
 # climbing-the-leader
-hackerrank climbing the rank costom solutiion in c language.
+hackerrank climbing the rank custom solutiion in c language.
